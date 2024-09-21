@@ -25,7 +25,7 @@ This project is a web application built with NestJS and TypeORM that interacts w
 ## Setup Instructions
 1. Clone the Repository
 ```bash
-git clone [https://github.com/yourusername/your-repository.git](https://github.com/sohanur-rahman0/node-task-01.git)
+git clone https://github.com/sohanur-rahman0/node-task-01.git
 cd node-task-01
 ```
 2. Install Dependencies
